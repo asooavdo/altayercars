@@ -57,7 +57,7 @@ const HeroSection = () => {
         duration: 0.8,
         delay: 0.5
       }} className="text-xl md:text-2xl text-ivory-muted mb-4 max-w-2xl mx-auto">
-          سيارتك من الحلم إلى الواقع 🏎️
+          سيارتك من الحلم إلى الواقع
         </motion.p>
 
         <motion.p initial={{
